@@ -1,4 +1,4 @@
-### Translation to English
+
 
 # Image-processing-python
 The algorithms are organized into 5 `.py` files:
