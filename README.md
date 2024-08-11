@@ -1,11 +1,13 @@
-# Image-processing-python
-Các giải thuật được sắp xếp thành 5 file.py
--Biến đổi màu (Color)
--Biến đổi hình học (Scale_Rotation)
--Làm trơn ảnh (Filtering)(Đã bao gồm sử dụng Lý Thuyết và OpenCV)
--Phát hiện biên cạnh theo Lý thuyết (Edge_Detection_LT)
--Phát hiện biên cạnh sử dụng hàm trong OpenCV (Edge_Detection_OpenCV)
+### Translation to English
 
-Cách chạy chương trình:
--Open Folder "source" và chạy từng file.py để dùng các chức năng
--Các hình ảnh được sử dụng trong hàm đã được đặt chung vào folder với tên tương ứng
+# Image-processing-python
+The algorithms are organized into 5 `.py` files:
+- **Color Transformation (Color)**
+- **Geometric Transformation (Scale_Rotation)**
+- **Image Smoothing (Filtering)** (Includes both Theoretical Approaches and OpenCV)
+- **Edge Detection using Theory (Edge_Detection_LT)**
+- **Edge Detection using OpenCV Functions (Edge_Detection_OpenCV)**
+
+#### How to Run the Program:
+- Open the "source" folder and run each `.py` file to use the corresponding functions.
+- The images used in the functions are all placed in the same folder with matching names.
